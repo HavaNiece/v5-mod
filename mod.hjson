@@ -1,8 +1,7 @@
-name: v5-mod
-displayName: "[pink]v5 mod"
-author: "HavaNiece"
-description:
-  '''
-  A quality of life mod for v5.
-  '''
-version: 1.0
+{
+  "name": "A v5 Mod",
+  "author": "[pink]HavaNiece",
+  "description": "An assortment of cheat blocks",
+  "version": 1.0,
+  "minGameVersion": 101
+}
