@@ -14,10 +14,7 @@ craftTime: 30
 flameColor: C9A58F
 updateEffect: smeltsmoke
 consumes: {
-  items: {
-    items: [copper/1
-    ]
-  }
+  power: 5
 }
 requirements: [
 ]
