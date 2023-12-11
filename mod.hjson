@@ -1,9 +1,8 @@
-name: sandy-sand-hack
-displayName: "[#EFCA98]Extra Sand for the Sandbox HACK"
-author: "[#FCC21B]Tweaked by RebornTrack970 and made by MEEP of Faith"
+name: v5-mod
+displayName: "[pink]v5 mod"
+author: "HavaNiece"
 description:
   '''
-  Adds small additions for sandbox fun and testing.
-  [red]Also Now Everything is free!!!
+  A quality of life mod for v5.
   '''
-version: 3.0
+version: 1.0
