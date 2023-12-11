@@ -1,0 +1,30 @@
+type: GenericSmelter
+name: "[#EFCA98]Sand[] Forge"
+description:
+  '''
+  Combines all materials to make [#EFCA98]Completely Normal Sand[]. Definitely not something special or anything.
+  
+  Wait how the heck are you supposed to automate this?
+  '''
+size: 3
+hasPower: true
+hasItems: true
+liquidCapacity: 24
+craftTime: 30
+flameColor: C9A58F
+updateEffect: smeltsmoke
+consumes: {
+  power: 0
+  items: {
+    items: [
+    ]
+  }
+}
+requirements: [
+]
+category: crafting
+research: copper-wall
+idleSound: completelynormalsandforgery
+idleSoundVolume: 2
+sync: false
+outputItem: normalsand/1
