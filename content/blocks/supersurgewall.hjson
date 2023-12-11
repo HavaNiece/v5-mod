@@ -10,4 +10,4 @@ category: defense
 requirements: [
   normalsand/1
 ]
-research: superwall
+research: superphasewall
