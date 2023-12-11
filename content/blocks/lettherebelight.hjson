@@ -9,3 +9,4 @@ buildVisibility: lightingOnly
 requirements: [
   normalsand/1
 ]
+research: lake
