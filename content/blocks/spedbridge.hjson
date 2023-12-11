@@ -7,8 +7,8 @@ itemCapacity: 50
 transportTime: 0
 hasPower: false
 category: distribution
-buildVisibility: sandboxOnly
+buildVisibility: shown
 requirements: [
   normalsand/1
 ]
-research: spedconveyor
+research: spedjunction
