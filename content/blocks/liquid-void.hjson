@@ -9,4 +9,4 @@ alwaysUnlocked: false
 requirements: [
   normalsand/1
 ]
-research: liquid-tank
+research: item-void
