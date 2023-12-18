@@ -1,0 +1,26 @@
+type: GenericSmelter
+name: "Pink Copper Fabricator"
+description:
+  '''
+  Fabricates Pink Copper.
+
+duh.
+  '''
+size: 3
+hasPower: false
+hasItems: true
+craftTime: 30
+flameColor: C9A58F
+updateEffect: smeltsmoke
+consumes: {
+  items: {
+    items: [
+    ]
+    }
+}
+requirements: [
+]
+category: crafting
+research: copper-wall
+sync: false
+outputItem: pinkcopper/2
